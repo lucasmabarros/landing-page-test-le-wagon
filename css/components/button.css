@@ -1,0 +1,7 @@
+.btn{
+  padding: 15px 35px;
+  background-color: rgb(25, 197, 140);
+  color: rgb(247, 247, 247);
+  border-radius: 40px;
+  display: inline-block;
+}

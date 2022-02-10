@@ -1,0 +1,17 @@
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+.container-header-info h1, p{
+  margin-bottom: 30px;
+  color: white;
+}
+.container-header-info p{
+  color: rgb(165, 163, 163);
+  font-size: 20px;
+}
+.container h2{
+  display: block;
+  margin: 20px;
+  text-align: center;
+}
